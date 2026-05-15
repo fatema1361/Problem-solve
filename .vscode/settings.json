@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\Hp\\OneDrive\\Pictures\\Problem-solve\\output.aux": true,
+        "**/c:\\Users\\Hp\\OneDrive\\Pictures\\Problem-solve\\output.log": true,
+        "**/c:\\Users\\Hp\\OneDrive\\Pictures\\Problem-solve\\output.gz": true,
+        "**/c:\\Users\\Hp\\OneDrive\\Pictures\\Problem-solve\\output.out": true
+    }
+}
